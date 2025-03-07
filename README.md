@@ -5,7 +5,7 @@
 
 
 # 環境:
-建議於python3.8中執行，所需要安裝的套件請見[/docs/requirements.txt](https://github.com/C-H-Chen/baseball-trajectory-recorder/blob/main/docs/requirements.txt)
+建議於python3.8中執行，所需要安裝的套件請見[/docs/requirements.txt](https://github.com/C-H-Chen/baseball-trajectory-recorder/blob/main/docs/requirements.txt)。
 
 
 該專案主要是針對60FPS的影片。  
