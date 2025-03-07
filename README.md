@@ -10,7 +10,7 @@
 
     bin\OpenPoseDemo.exe --video {VIDEO_PATH} --write_json output_jsons/       
 ######  Step 2.
-於main.py中輸入OpenPose輸出的json檔，並根據影片中的打者與打擊慣用手適時修改對象與關鍵點的索引值。
+於main.py中輸入OpenPose輸出的json檔名，並根據影片中的打者與打擊慣用手適時修改對象與關鍵點的索引值。
 ######  Step 3.
 輸入以下指令執行核心程式。
 
