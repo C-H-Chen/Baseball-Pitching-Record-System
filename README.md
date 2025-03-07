@@ -30,7 +30,8 @@
 
 # 輸出解釋:  
 
-![image](https://github.com/user-attachments/assets/8af2d94a-6c26-4c28-af21-92cc19cfb505)  
+![image](https://github.com/user-attachments/assets/b67e3666-a0c6-4600-b941-a03749da4eef)
+ 
 
 <h3>好球位置判定:  
 
