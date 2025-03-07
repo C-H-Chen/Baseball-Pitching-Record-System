@@ -22,7 +22,7 @@
 ![image](https://github.com/user-attachments/assets/7b8422ea-7835-4ed1-88ec-1793677f26ee)
 
 ######  Step 2.
-如下圖標示，於main.py中輸入[OpenPose輸出]](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/02_output.md#pose-output-format-body_25)的json檔名，並根據影片中的打者與打擊慣用手適時修改輸入對象與關鍵點的索引值。  
+如下圖標示，於main.py中輸入[OpenPose輸出](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/02_output.md#pose-output-format-body_25)的json檔名，並根據影片中的打者與打擊慣用手適時修改輸入對象與關鍵點的索引值。  
 
 ![1](https://github.com/user-attachments/assets/e6abd71d-f7d5-413b-89da-e6eb46cb9d9a)  
 
