@@ -7,7 +7,7 @@
 [Demo Video](https://github.com/user-attachments/assets/42b28758-cf5d-45fa-8b9e-b0cd29813e38)    
 ######  Step 1.
 執行以下指令，獲得人體的關鍵點，用以建構好球帶的偵測區域。  
-    bin\OpenPoseDemo.exe --video {VIDEO_PATH} --write_json output_jsons/  
+       bin\OpenPoseDemo.exe --video {VIDEO_PATH} --write_json output_jsons/  
 ######  Step 2.
 執行指令:程式檔名 -v 影片檔名  
 指令執行後，滑鼠點擊本壘板兩側建立偵測區域，即可該使執行。  
