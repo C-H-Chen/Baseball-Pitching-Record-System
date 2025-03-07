@@ -20,5 +20,7 @@
     python main.py -v {VIDEO_PATH}  
 ######  Step 4. 
 指令執行後，滑鼠點擊畫面本壘板兩側建立偵測區域，即可開始進行偵測。  
+![image](https://github.com/user-attachments/assets/4a567b04-0f21-4c70-9cfc-c2867caa4926)
+
 # 輸出解釋:  
 
