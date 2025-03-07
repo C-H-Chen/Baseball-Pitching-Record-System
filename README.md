@@ -1,5 +1,6 @@
 # 簡介:
 本專案是一個基於Python的棒球紀錄系統開發專案，針對60FPS的影片，偵測投手投球的軌跡與進壘點，輔助相關人員紀錄賽事表現並提升作業效率。    
+系統架構請見[/docs/Architecture.jpg](https://github.com/C-H-Chen/baseball-trajectory-recorder/blob/main/docs/Architecture.jpg)。  
 ![demo](https://github.com/user-attachments/assets/274f601f-6839-482b-92c7-ebac2615efbe)  
 
 # 環境:
