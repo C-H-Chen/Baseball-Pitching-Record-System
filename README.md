@@ -32,7 +32,7 @@
 
 ![image](https://github.com/user-attachments/assets/b67e3666-a0c6-4600-b941-a03749da4eef)
 
-紅色九宮格矩形 : 好球帶
+紅色九宮格矩形 : 好球帶  
 Strike黃色實心圓點 : 好球位置       
 Ball綠色空心圓點 : 壞球位置       
 past灰色圓點 : 先前紀錄的位置  
