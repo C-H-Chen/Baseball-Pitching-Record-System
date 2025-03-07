@@ -6,7 +6,7 @@
 # Demo說明:
 [Demo Video](https://github.com/user-attachments/assets/42b28758-cf5d-45fa-8b9e-b0cd29813e38)    
 ######  Step 1.  
-執行以下指令，獲得人體的關鍵點，用以建構好球帶的偵測區域。 
+輸入以下指令執行OpenPose，獲得人體的關鍵點，用以建構好球帶的偵測區域。 
 
     bin\OpenPoseDemo.exe --video {VIDEO_PATH} --write_json output_jsons/       
 ######  Step 2.
