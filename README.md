@@ -6,9 +6,14 @@
 # Demo說明:
 [Demo Video](https://github.com/user-attachments/assets/42b28758-cf5d-45fa-8b9e-b0cd29813e38)    
 ######  Step 1.  
-輸入以下指令執行OpenPose，獲得人體的關鍵點，用以建構好球帶的偵測區域。 
+輸入以下指令執行OpenPose，目的是為了獲得人體的關鍵點，用以建構好球帶的偵測區域。 
 
     bin\OpenPoseDemo.exe --video {VIDEO_PATH} --write_json output_jsons/       
 ######  Step 2.
-執行指令:程式檔名 -v 影片檔名  
+於main.py中輸入OpenPose輸出的json檔，並根據影片中的打者與打擊慣用手適時修改對象與關鍵點的索引值。
+######  Step 3.
+輸入以下指令執行核心程式。
+
+    python main.py -v  {VIDEO_PATH}
+    
 指令執行後，滑鼠點擊本壘板兩側建立偵測區域，即可該使執行。  
