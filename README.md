@@ -30,4 +30,11 @@
 
 # 輸出解釋:  
 
-<h3>好球位置判定:
+![image](https://github.com/user-attachments/assets/8af2d94a-6c26-4c28-af21-92cc19cfb505)  
+
+<h3>好球位置判定:  
+
+
+
+
+<h3>壞球位置判定:  
