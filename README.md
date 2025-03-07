@@ -29,15 +29,15 @@
 ![image](https://github.com/user-attachments/assets/4a567b04-0f21-4c70-9cfc-c2867caa4926)
 
 # 輸出解釋:  
-Strike黃色實心圓點:好球位置       
-Ball綠色空心圓點:壞球位置       
-past灰色圓點:先前紀錄的位置  
-Number:投球編號                  
-Time:標記位置的影片時間點       
-Strike Zone Label:好壞球結果 (標記位置:該標記位置的累積數量)  
 
 ![image](https://github.com/user-attachments/assets/b67e3666-a0c6-4600-b941-a03749da4eef)
  
+Strike黃色實心圓點 : 好球位置       
+Ball綠色空心圓點 : 壞球位置       
+past灰色圓點 : 先前紀錄的位置  
+Number : 投球編號                  
+Time : 位置標記的影片時間點       
+Strike Zone Label : 好壞球結果 (標記位置:該標記位置的累積數量)  
 
 <h3>好球位置判定:  
 
