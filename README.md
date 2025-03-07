@@ -26,7 +26,7 @@
 
 ![1](https://github.com/user-attachments/assets/e6abd71d-f7d5-413b-89da-e6eb46cb9d9a)  
 
-![2](https://github.com/user-attachments/assets/d076af70-1d78-4ceb-98e2-2e77a9988844)
+![2](https://github.com/user-attachments/assets/f2a8b4ee-2b4e-4771-bb22-9940e6342e5f)
 
 ######  Step 3.
 輸入下列指令執行核心程式。
