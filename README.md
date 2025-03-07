@@ -14,7 +14,7 @@
 ![image](https://github.com/user-attachments/assets/7b8422ea-7835-4ed1-88ec-1793677f26ee)
 ######  Step 2.
 如下圖標示，於main.py中輸入OpenPose輸出的json檔名，並根據影片中的打者與打擊慣用手適時修改輸入對象與關鍵點的索引值。  
-![1](https://github.com/user-attachments/assets/dd420741-13e1-48c9-89b8-c6504c644a94)  
+![1](https://github.com/user-attachments/assets/b0c1d014-e8ef-424f-a703-1cdbc7f8708c)  
 ![2](https://github.com/user-attachments/assets/d076af70-1d78-4ceb-98e2-2e77a9988844)
 
 ######  Step 3.
