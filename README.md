@@ -7,7 +7,9 @@
 
 # Demo說明:    
 [Demo Video](https://github.com/user-attachments/assets/42b28758-cf5d-45fa-8b9e-b0cd29813e38)    
-以上是完整Demo的影片，並會針對影片中的各個重點步驟於下方進行說明。  
+
+以上是完整Demo的影片，並會針對影片中的各個重點步驟於下方進行說明。
+
 ######  Step 1.  
 輸入下列指令執行OpenPose，目的是為了獲得人體的關鍵點，用以建構好球帶的偵測區域。 
 
