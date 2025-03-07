@@ -14,6 +14,6 @@
 ######  Step 3.
 輸入以下指令執行核心程式。
 
-    python main.py -v  {VIDEO_PATH}
-    
-指令執行後，滑鼠點擊本壘板兩側建立偵測區域，即可該使執行。  
+    python main.py -v {VIDEO_PATH}  
+######  Step 4. 
+指令執行後，滑鼠點擊畫面本壘板兩側建立偵測區域，即可進行偵測。  
