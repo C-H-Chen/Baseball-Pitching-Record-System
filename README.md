@@ -8,16 +8,17 @@
 # Demo說明:
 [Demo Video](https://github.com/user-attachments/assets/42b28758-cf5d-45fa-8b9e-b0cd29813e38)    
 ######  Step 1.  
-輸入以下指令執行OpenPose，目的是為了獲得人體的關鍵點，用以建構好球帶的偵測區域。 
+輸入下列指令執行OpenPose，目的是為了獲得人體的關鍵點，用以建構好球帶的偵測區域。 
 
     bin\OpenPoseDemo.exe --video {VIDEO_PATH} --write_json output_jsons/       
 ![image](https://github.com/user-attachments/assets/7b8422ea-7835-4ed1-88ec-1793677f26ee)
 ######  Step 2.
-於main.py中輸入OpenPose輸出的json檔名，並根據影片中的打者與打擊慣用手適時修改輸入對象與關鍵點的索引值。
-![1](https://github.com/user-attachments/assets/8fa27cbd-564b-4afe-b579-0f5046e65cb2)
+如下圖標示，於main.py中輸入OpenPose輸出的json檔名，並根據影片中的打者與打擊慣用手適時修改輸入對象與關鍵點的索引值。
+![1](https://github.com/user-attachments/assets/45cd162c-c0ee-406d-a3b5-4104424591d3)
+![2](https://github.com/user-attachments/assets/d076af70-1d78-4ceb-98e2-2e77a9988844)
 
 ######  Step 3.
-輸入以下指令執行核心程式。
+輸入下列指令執行核心程式。
 
     python main.py -v {VIDEO_PATH}  
 ######  Step 4. 
